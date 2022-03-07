@@ -16,3 +16,6 @@ Sample Output:
 > Explanation: The first 5 hours are billed at $1/hour, which results in $5. After that, the next 3 hours are billed at $0.5/hour = $1.5.
 So, the total would be $5+$1.5 = $6.5
 The output should be a Double, even if the amount is a round number.
+
+_____________________________________
+Программа запрашивает у пользователя кол-во часов, затраченных на парковку, считает и выводит на экран стоимость парковки в валюте. Учитывается так же стоимость, если парковка была больше суток. 
